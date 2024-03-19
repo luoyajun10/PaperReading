@@ -1,0 +1,1 @@
+HADOOP_CLASSPATH=`hbase classpath` hadoop jar HFileGen2HBase.jar /hbasetest/data /hbasetest/data/hfiles htable
